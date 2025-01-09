@@ -1,0 +1,30 @@
+# Python virtual environments
+myenv/
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# TensorFlow model files
+saved_model/
+checkpoints/
+*.h5
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary or log files
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# IDE-specific files
+.vscode/
+.idea/
